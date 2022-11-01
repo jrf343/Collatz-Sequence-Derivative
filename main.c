@@ -1,6 +1,7 @@
 // Julia Frances
-// CS 503
-// Project 2
+// main.c
+// September 23, 2022
+// C implementation of the Collatz sequence in order to determine how many steps will be taken before reaching a power of 2
 
 #include <stdio.h>
 
